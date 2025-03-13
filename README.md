@@ -25,7 +25,14 @@ cd HappyHoli
 ```
 
 ## 📸 Screenshots
-*(Add relevant screenshots of the project here)*
+
+Here are some preview images of the project:
+
+![alt text](https://github.com/akshitasood08/HappyHoli/blob/main/Screenshot%20(137).png) 
+
+![alt text](https://github.com/akshitasood08/HappyHoli/blob/main/Screenshot%20(138).png) 
+
+![alt text](https://github.com/akshitasood08/HappyHoli/blob/main/Screenshot%20(140).png) 
 
 ## 🎊 About Holi
 Holi is a festival of colors celebrated in India and across the world, symbolizing joy, unity, and the victory of good over evil. People smear colors, play with water, and enjoy festive delicacies.
